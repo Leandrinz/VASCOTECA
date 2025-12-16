@@ -1,0 +1,20 @@
+1:Palmeiras:68
+2:Flamengo:68
+3:Cruzeiro:64
+4:Mirassol:59
+5:Bahia:53
+6:Botafogo:52
+7:Fluminense:51
+8:São Paulo:45
+9:Atlético-MG:43
+10:Vasco da Gama:42
+11:Bragantino:42
+12:Ceará SC:42
+13:Corinthians:42
+14:Grêmio:40
+15:Internacional:37
+16:EC Vitória:35
+17:Santos:33
+18:Juventude:32
+19:Fortaleza:30
+20:Sport Recife:17
